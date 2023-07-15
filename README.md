@@ -3,8 +3,7 @@
 
 ## ** Видеоурок:**
 
-<a href="http://www.youtube.com/watch ?feature=player_embedded&v=hU6yXGR5R1Y
-" target="_blank"><img src="https://i.imgur.com/IFHFaiI.png " 
+<a href="https://www.youtube.com/watch?v=hU6yXGR5R1Y" target="_blank"><img src="https://i.imgur.com/IFHFaiI.png " 
 alt="Нажмите здесь, чтобы посмотреть видео установки!" width="500" height="250" border="10" /></a>
 
 ## **Ошибки**
